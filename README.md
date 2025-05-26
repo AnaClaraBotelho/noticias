@@ -2,3 +2,4 @@ Get started by customizing your environment (defined in the .idx/dev.nix file) w
 
 Learn more at https://firebase.google.com/docs/studio/customize-workspace
 # noticias
+# noticias
